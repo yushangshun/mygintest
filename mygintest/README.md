@@ -8,7 +8,8 @@ Gin是一个golang的微框架，有快速灵活，容错方便等特点。
 
 #### 1 接口程序流程图
 
-![http://ooi2jt2e8.bkt.clouddn.com/GIN.jpg]()
+![流程图](http://ooi2jt2e8.bkt.clouddn.com/GIN.jpg)
+
 
 1. router绑定用来处理路由事项，并且，将HTTP的请求绑定到相关的处理函数
 2. cotroller处理操作逻辑
