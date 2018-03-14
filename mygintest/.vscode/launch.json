@@ -1,0 +1,19 @@
+
+{
+    "go.buildOnSave": true,
+    "go.lintOnSave": true,
+    "go.vetOnSave": true,
+    "go.buildTags": "",
+    "go.buildFlags": [],
+    "go.lintFlags": [],
+    "go.vetFlags": [],"configurations": [
+        
+    ],
+    "go.coverOnSave": false,
+    "go.useCodeSnippetsOnFunctionSuggest": false,
+    "go.formatOnSave": true,
+    "go.formatTool": "goreturns",
+    "go.goroot": "C:\\Go",
+    "go.gopath": "e:\\CODE\\GoCode",
+    "go.gocodeAutoBuild": false
+}
